@@ -1,1 +1,1 @@
-# NetSix-git-tutorial
+# NetSix git tutorial
